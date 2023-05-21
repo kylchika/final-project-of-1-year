@@ -36,7 +36,7 @@
 Краткая информация о данных
 Датасет состоит из 377185 строк и 18 признаков.
 
-Ссылка файл с исходными данными: [http://localhost:8888/notebooks/IDE/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.ipynb]
+Ссылка файл с исходными данными: [(https://drive.google.com/file/d/11-ZNNIdcQ7TbT8Y0nsQ3Q0eiYQP__NIW/view)]
 
 :arrow_up:[к оглавлению](https://github.com/kylchika/final-project-of-1-year/blob/main/README.md#оглавление)
 
